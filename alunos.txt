@@ -1,0 +1,5 @@
+Luigi | 16
+Gabriel | 10
+Matheus | 9
+Natan | 14
+José | 17
